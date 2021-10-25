@@ -1,0 +1,66 @@
+/* reference all parts of the html */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* HTML base stylization */
+body {
+  background-color: aquamarine;
+  font-family: Arial;
+  font-size: 18px;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+/* Connect specific styles by class */
+.form-instruction {
+  color: red;
+}
+
+.ipsum {
+  color: royalblue;
+}
+
+/* Connect specific styles by id */
+#user-name {
+  background-color: rgb(240, 198, 134);
+  border: 5px solid rgb(158, 136, 253);
+  width: 400px;
+  padding: 25px;
+  margin-top: 30px;
+}
+
+/* Connecting multiple parts of the site under one stylization */
+input,
+button {
+  padding: 5px;
+  font-size: 16px;
+}
+
+a {
+  background-color: palevioletred;
+}
+
+#user-name h2 {
+  color: steelblue;
+}
+
+/* img stylization */
+#flower-dog {
+  width: 300px;
+}
