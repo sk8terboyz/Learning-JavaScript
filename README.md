@@ -13,6 +13,7 @@ equipped in understanding JavaScript, HTML, CSS, and general Web Development aft
 
 
 Course Information:
+
   Title of the course: The Complete JavaScript Course 2021: From Zero to Exper
   Created by: Jonas Schmedtmann
   68 Hours on-demand video
