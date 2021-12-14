@@ -20,6 +20,6 @@ Course Information:
   
   68 Hours on-demand video
   
-  21 articles
+  21 sections
   
   Link: https://www.udemy.com/course/the-complete-javascript-course/
