@@ -5,7 +5,7 @@ Programming Languages Used: JavaScript, HTML, CSS
 
 This repository is the work I did as I followed a JavaScript course made by Jonas Schmedtmann.
 
-This course was introduced to me through my current employer, who bought the course for the employees. I have learned quite a bit through it and have truly developed myself 
+This course was introduced to me through my employer, who bought the course for the employees. I have learned quite a bit through it and have truly developed myself 
 as a JavaScript programmer. I didn't have much expereince coding in JavaScript, or Web Development, prior except for an application that I programmed in JS. Although I really
 did stumble my way through that one. This course also got me interested in how HTML and CSS work better. I had a basic understanding of HTML before this course, but since
 starting this course, my interest and knowledge has grown significantly. There is still much more to learn (as there is with every language), but I do feel as though I am better
